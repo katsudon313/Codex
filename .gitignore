@@ -1,0 +1,15 @@
+# Ignore environment and secret files
+.env
+firebase_config.json
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# VSCode and workspace settings
+.vscode/
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
